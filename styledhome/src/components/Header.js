@@ -11,7 +11,6 @@ const Header = styled.div `
 `
 const Item = styled.div `
    font-size: 14px;
-   font-family: 'Read';
    font-weight: bold;
    padding: 20px;
    color: #6899;
