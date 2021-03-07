@@ -5,12 +5,12 @@ const Footer = styled.footer`
     position: fixed;
     bottom: 0;
     left: 0;
-    height: 40px;
+    height: 50px;
     width: 100%;
     display: flex;
     justify-content: center; 
     background-color: #eee;
-    height: 90px;
+  
     
 `
 const FooterItem = styled.div`

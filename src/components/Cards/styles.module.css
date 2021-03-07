@@ -1,0 +1,28 @@
+
+.container{
+    padding-top: 10%;
+    margin: 10px;
+    align-items: left;
+    display: inline;
+    padding-bottom: 10%;
+
+}
+
+.cards{
+    height: 450px;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    transition: 0.3s;
+    align-items: center;
+}
+
+.cardImage{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width:80%;
+    max-height:220px;
+}
+
+.cardButton{
+
+}
